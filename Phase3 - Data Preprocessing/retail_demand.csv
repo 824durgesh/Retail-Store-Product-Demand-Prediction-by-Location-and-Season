@@ -23890,7 +23890,7 @@ ID,Store ID,Location,Season,Product,Total Price,Base Price,Units Sold
 23889,8121,Kolkata,Winter,Umbrella,253.4298,267.0798,35
 23890,8095,Pune,Monsoon,Rice,104.6067,119.9707,129
 23891,8058,Chennai,Autumn,Sunscreen,180.4853,201.9544,66
-23892,8091,Pune,Autumn,Water Bottle,137.5277,145.5068,119
+23892,8091,Pune,Autumn,Water Bottle,,145.5068,119
 23893,8317,Pune,Monsoon,Cold Drinks,59.3607,69.6569,83
 23894,8745,Hyderabad,Monsoon,Water Bottle,281.0807,287.6085,93
 23895,8634,Jaipur,Winter,Rice,67.1562,73.7097,94
@@ -45230,7 +45230,7 @@ ID,Store ID,Location,Season,Product,Total Price,Base Price,Units Sold
 45229,8856,Jaipur,Monsoon,Cold Drinks,99.0559,106.9022,63
 45230,8634,Mumbai,Winter,Jacket,864.122,962.6871,229
 45231,8317,Bangalore,Winter,Cold Drinks,38.7496,42.2947,54
-45232,8222,Kolkata,Summer,Umbrella,198.3627,223.1944,47
+45232,8222,Kolkata,Summer,Umbrella,,223.1944,47
 45233,8218,Kolkata,Monsoon,Jacket,902.3369,944.7703,41
 45234,8222,Delhi,Winter,Umbrella,238.6259,270.7238,45
 45235,8023,Mumbai,Monsoon,Sweater,520.7836,563.4503,47
@@ -78455,7 +78455,7 @@ ID,Store ID,Location,Season,Product,Total Price,Base Price,Units Sold
 78454,8401,Delhi,Summer,Rice,68.6676,72.0974,91
 78455,8512,Jaipur,Summer,Sweater,553.6525,644.0112,32
 78456,8317,Delhi,Autumn,Water Bottle,157.9246,159.3585,136
-78457,8218,Kolkata,Winter,Raincoat,379.4215,403.9851,50
+78457,8218,Kolkata,Winter,Raincoat,,403.9851,50
 78458,8095,Hyderabad,Monsoon,Water Bottle,203.0215,214.215,98
 78459,8634,Jaipur,Summer,Sunscreen,286.3861,307.2439,154
 78460,8401,Bangalore,Summer,Cold Drinks,102.686,104.5841,219
@@ -112033,7 +112033,7 @@ ID,Store ID,Location,Season,Product,Total Price,Base Price,Units Sold
 112032,8222,Mumbai,Autumn,Ice Cream,115.0126,119.7366,91
 112033,8023,Kolkata,Winter,Raincoat,487.3238,548.3317,55
 112034,8058,Mumbai,Monsoon,Cold Drinks,37.7616,41.0,105
-112035,8401,Bangalore,Summer,Rice,68.8379,79.354,96
+112035,8401,Bangalore,Summer,Rice,,79.354,96
 112036,8063,Kolkata,Summer,Umbrella,154.3306,164.4542,42
 112037,8317,Jaipur,Autumn,Ice Cream,168.3174,192.3346,60
 112038,8856,Pune,Autumn,Heater,1758.2873,2002.2024,67
